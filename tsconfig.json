@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "module": "node16",
+    "target": "es2020",
+    "rootDir": "./src",
+    "outDir": "./dist",
+    "moduleResolution": "node16",
+    "esModuleInterop": true,
+  },
+  "include": ["src/**/*"],
+  "exclude": ["node_modules", "**/*.spec.ts", "**/*.test.ts" ]
+
+}

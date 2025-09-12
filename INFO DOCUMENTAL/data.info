@@ -1,0 +1,7 @@
+id: number
+QR: string
+petName: string
+ownerName: string
+phone: string
+medicine: string
+other: string
